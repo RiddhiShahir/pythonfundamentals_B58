@@ -1,2 +1,2 @@
-# pythonfundamentals_B58
+# pythonfundamentals
 All my python practise files will be saved here
